@@ -183,3 +183,17 @@ Completed tasks:
 This project provided practical experience with Docker containerisation, container monitoring, restart policies, crash investigation and GitHub Actions automation.
 
 The next step is to explore deployment, automated testing and production troubleshooting.
+
+## 13. Deployment and Verification
+
+The Next.js application was deployed using Vercel.
+
+Deployment URL:
+https://my-first-app-ten-theta.vercel.app
+
+Verification:
+- Opened the deployment URL in a browser.
+- Confirmed that the application was accessible.
+- Also verified the Docker container locally at http://localhost:3000.
+
+The Vercel deployment and local Docker container are separate deployments.
